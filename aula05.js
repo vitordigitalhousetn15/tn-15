@@ -7,3 +7,7 @@ console.log("vitor")
 function getProdutos() {
     return "geladeira"
 }
+
+function getCountry() {
+    return "Brasil"
+}
