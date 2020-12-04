@@ -11,3 +11,7 @@ function getProdutos() {
 function getCountry() {
     return "Brasil"
 }
+
+function soma(primeiroNumero, segundoNumero) {
+    return primeiroNumero - segundoNumero
+}
